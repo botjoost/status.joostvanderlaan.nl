@@ -11,6 +11,8 @@ sites:
     url: https://saas.joostvanderlaan.nl
   - name: deno-astro.joostvanderlaan.nl
     url: https://deno-astro.joostvanderlaan.nl
+  - name: jlnw.nl
+    url: https://jlnw.nl
   - name: fashionunited.com
     url: https://fashionunited.com
   - name: developer.fashionunited.com
