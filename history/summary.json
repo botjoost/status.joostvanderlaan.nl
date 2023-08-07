@@ -40,19 +40,19 @@
     "url": "https://saas.joostvanderlaan.nl",
     "icon": "https://icons.duckduckgo.com/ip3/saas.joostvanderlaan.nl.ico",
     "slug": "saas-joostvanderlaan-nl",
-    "status": "down",
-    "uptime": "5.07%",
-    "uptimeDay": "5.07%",
-    "uptimeWeek": "5.07%",
-    "uptimeMonth": "5.07%",
-    "uptimeYear": "5.07%",
-    "time": 128,
-    "timeDay": 128,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "status": "up",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2023-08-07": 0
+      "2023-08-07": 34
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-07": 644,
+      "2023-08-07": 678,
       "2023-08-06": 1440,
       "2023-08-05": 213
     }
