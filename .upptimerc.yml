@@ -9,9 +9,11 @@ sites:
     url: https://joostvanderlaan.nl
   - name: saas.joostvanderlaan.nl
     url: https://saas.joostvanderlaan.nl
+  - name: deno-astro.joostvanderlaan.nl
+    url: https://deno-astro.joostvanderlaan.nl
   - name: fashionunited.com
     url: https://fashionunited.com
-  - name: FashionUnited Developers
+  - name: developer.fashionunited.com
     url: https://developer.fashionunited.com
   - name: Google
     url: https://www.google.com
