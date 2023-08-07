@@ -7,6 +7,8 @@ sites:
     url: https://www.joostvanderlaan.nl
   - name: Joostvanderlaan.nl redirect
     url: https://joostvanderlaan.nl
+  - name: saas.joostvanderlaan.nl
+    url: https://saas.joostvanderlaan.nl
   - name: fashionunited.com
     url: https://fashionunited.com
   - name: FashionUnited Developers
