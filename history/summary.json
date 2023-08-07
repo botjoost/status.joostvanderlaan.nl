@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 502,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "time": 369,
+    "timeDay": 277,
+    "timeWeek": 369,
+    "timeMonth": 369,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   },
   {
@@ -28,12 +28,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 62,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 125,
+    "timeDay": 167,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "saas.joostvanderlaan.nl",
+    "url": "https://saas.joostvanderlaan.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/saas.joostvanderlaan.nl.ico",
+    "slug": "saas-joostvanderlaan-nl",
+    "status": "down",
+    "uptime": "16.29%",
+    "uptimeDay": "16.29%",
+    "uptimeWeek": "16.29%",
+    "uptimeMonth": "16.29%",
+    "uptimeYear": "16.29%",
+    "time": 128,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "fashionunited.com",
@@ -47,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 253,
+    "timeDay": 219,
     "timeWeek": 186,
     "timeMonth": 186,
     "timeYear": 186,
@@ -70,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-07": 18,
+      "2023-08-07": 643,
       "2023-08-06": 1440,
       "2023-08-05": 213
     }
@@ -86,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 94,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "time": 114,
+    "timeDay": 81,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 320,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 232,
+    "timeDay": 250,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 101,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "time": 306,
+    "timeDay": 247,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
