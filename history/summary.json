@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/saas.joostvanderlaan.nl.ico",
     "slug": "saas-joostvanderlaan-nl",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "97.90%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "97.91%",
     "time": 668,
     "timeDay": 1063,
     "timeWeek": 668,
@@ -78,19 +78,19 @@
     "url": "https://jlnw.nl",
     "icon": "https://icons.duckduckgo.com/ip3/jlnw.nl.ico",
     "slug": "jlnw-nl",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1075,
-    "timeDay": 1048,
-    "timeWeek": 1075,
-    "timeMonth": 1075,
-    "timeYear": 1075,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 941,
+    "timeDay": 861,
+    "timeWeek": 941,
+    "timeMonth": 941,
+    "timeYear": 941,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 8
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-08": 838,
+      "2023-08-08": 846,
       "2023-08-07": 743
     }
   },
