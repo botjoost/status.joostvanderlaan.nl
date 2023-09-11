@@ -69,7 +69,7 @@
     "time": 500,
     "timeDay": 246,
     "timeWeek": 222,
-    "timeMonth": 475,
+    "timeMonth": 496,
     "timeYear": 500,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 1307,
     "timeDay": 445,
     "timeWeek": 643,
-    "timeMonth": 1393,
+    "timeMonth": 1389,
     "timeYear": 1307,
     "dailyMinutesDown": {}
   },
@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/developer.fashionunited.com.ico",
     "slug": "developer-fashionunited-com",
     "status": "up",
-    "uptime": "90.07%",
+    "uptime": "90.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.87%",
-    "uptimeYear": "90.07%",
+    "uptimeYear": "90.29%",
     "time": 1033,
     "timeDay": 1153,
     "timeWeek": 813,
@@ -175,18 +175,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 249,
-    "timeWeek": 296,
-    "timeMonth": 281,
+    "timeDay": 349,
+    "timeWeek": 295,
+    "timeMonth": 282,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-11": 0
+    }
   },
   {
     "name": "Test Broken Site",
