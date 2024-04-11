@@ -118,18 +118,20 @@
     "url": "https://fashionunited.com",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.com.ico",
     "slug": "fashionunited-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 238,
-    "timeWeek": 117,
-    "timeMonth": 123,
-    "timeYear": 193,
-    "dailyMinutesDown": {}
+    "time": 194,
+    "timeDay": 272,
+    "timeWeek": 141,
+    "timeMonth": 129,
+    "timeYear": 194,
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   },
   {
     "name": "developer.fashionunited.com",
