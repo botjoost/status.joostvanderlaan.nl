@@ -7,6 +7,7 @@ This repository contains the open-source uptime monitor and status page for [Upp
 [![Graphs CI](https://github.com/javdl/status.joostvanderlaan.nl/workflows/Graphs%20CI/badge.svg)](https://github.com/javdl/status.joostvanderlaan.nl/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/javdl/status.joostvanderlaan.nl/workflows/Static%20Site%20CI/badge.svg)](https://github.com/javdl/status.joostvanderlaan.nl/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/javdl/status.joostvanderlaan.nl/workflows/Summary%20CI/badge.svg)](https://github.com/javdl/status.joostvanderlaan.nl/actions?query=workflow%3A%22Summary+CI%22)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjavdl%2Fstatus.joostvanderlaan.nl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjavdl%2Fstatus.joostvanderlaan.nl?ref=badge_shield)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/upptime/upptime/issues) as incident reports, [Actions](https://github.com/javdl/status.joostvanderlaan.nl/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
 
@@ -37,3 +38,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Upptime](https://upptime.js.org)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjavdl%2Fstatus.joostvanderlaan.nl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjavdl%2Fstatus.joostvanderlaan.nl?ref=badge_large)
