@@ -1,7 +1,7 @@
 url: https://deno-astro.joostvanderlaan.nl
-status: up
-code: 200
-responseTime: 254
-lastUpdated: 2024-09-19T23:06:16.706Z
+status: down
+code: 500
+responseTime: 841
+lastUpdated: 2024-09-20T05:07:15.056Z
 startTime: 2023-08-07T11:36:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
