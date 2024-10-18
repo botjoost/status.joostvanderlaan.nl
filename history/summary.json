@@ -4,9 +4,9 @@
     "url": "https://www.joostvanderlaan.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.joostvanderlaan.nl.ico",
     "slug": "joostvanderlaan-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 123,
     "timeMonth": 142,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   },
   {
     "name": "Joostvanderlaan.nl redirect",
     "url": "https://joostvanderlaan.nl",
     "icon": "https://icons.duckduckgo.com/ip3/joostvanderlaan.nl.ico",
     "slug": "joostvanderlaan-nl-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 110,
     "timeMonth": 130,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   },
   {
     "name": "saas.joostvanderlaan.nl",
