@@ -1,7 +1,7 @@
 url: https://www.joostvanderlaan.nl
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2024-10-18T23:05:24.802Z
+status: down
+code: 500
+responseTime: 417
+lastUpdated: 2024-10-19T08:43:02.726Z
 startTime: 2023-08-05T20:27:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
