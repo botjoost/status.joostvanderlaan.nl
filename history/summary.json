@@ -61,19 +61,19 @@
     "url": "https://deno-astro.joostvanderlaan.nl",
     "icon": "https://icons.duckduckgo.com/ip3/deno-astro.joostvanderlaan.nl.ico",
     "slug": "deno-astro-joostvanderlaan-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 2914,
-    "timeWeek": 863,
-    "timeMonth": 472,
+    "time": 397,
+    "timeDay": 2035,
+    "timeWeek": 798,
+    "timeMonth": 466,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-01-05": 0
+      "2025-01-05": 8
     }
   },
   {
@@ -126,7 +126,7 @@
     "uptime": "95.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.09%",
+    "uptimeMonth": "42.07%",
     "uptimeYear": "94.84%",
     "time": 607,
     "timeDay": 0,
@@ -134,7 +134,7 @@
     "timeMonth": 157,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-01-05": 1430,
+      "2025-01-05": 1438,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
