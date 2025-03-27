@@ -40,18 +40,20 @@
     "url": "https://saas.joostvanderlaan.nl",
     "icon": "https://icons.duckduckgo.com/ip3/saas.joostvanderlaan.nl.ico",
     "slug": "saas-joostvanderlaan-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 946,
-    "timeWeek": 642,
-    "timeMonth": 561,
-    "timeYear": 747,
-    "dailyMinutesDown": {}
+    "time": 1040,
+    "timeDay": 3790,
+    "timeWeek": 1391,
+    "timeMonth": 770,
+    "timeYear": 763,
+    "dailyMinutesDown": {
+      "2025-03-27": 0
+    }
   },
   {
     "name": "deno-astro.joostvanderlaan.nl",
