@@ -40,19 +40,19 @@
     "url": "https://saas.joostvanderlaan.nl",
     "icon": "https://icons.duckduckgo.com/ip3/saas.joostvanderlaan.nl.ico",
     "slug": "saas-joostvanderlaan-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1040,
-    "timeDay": 3790,
-    "timeWeek": 1391,
-    "timeMonth": 770,
-    "timeYear": 763,
+    "time": 1038,
+    "timeDay": 2735,
+    "timeWeek": 1306,
+    "timeMonth": 766,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-03-27": 0
+      "2025-03-27": 13
     }
   },
   {
