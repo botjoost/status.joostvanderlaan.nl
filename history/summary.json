@@ -4,19 +4,19 @@
     "url": "https://www.joostvanderlaan.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.joostvanderlaan.nl.ico",
     "slug": "joostvanderlaan-nl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 5447,
-    "timeWeek": 1702,
-    "timeMonth": 742,
+    "timeDay": 3750,
+    "timeWeek": 1552,
+    "timeMonth": 730,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2025-05-03": 0
+      "2025-05-03": 9
     }
   },
   {
