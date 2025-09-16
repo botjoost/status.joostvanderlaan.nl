@@ -1,6 +1,5 @@
-# Change these first
-owner: javdl # Your GitHub organization or username, where this repository lives
-repo: status.joostvanderlaan.nl # The name of this repository
+owner: javdl
+repo: status.joostvanderlaan.nl
 
 sites:
   - name: Joostvanderlaan.nl
