@@ -1,6 +1,5 @@
 owner: javdl
 repo: status.joostvanderlaan.nl
-
 sites:
   - name: Joostvanderlaan.nl
     url: https://www.joostvanderlaan.nl
@@ -22,10 +21,9 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-
+assignees:
+  - javdl
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.joostvanderlaan.nl
   # baseUrl: /status.joostvanderlaan.nl
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -37,6 +35,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
