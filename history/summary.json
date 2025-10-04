@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 347,
-    "timeDay": 343,
-    "timeWeek": 198,
-    "timeMonth": 181,
+    "timeDay": 72,
+    "timeWeek": 201,
+    "timeMonth": 175,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2025-07-08": 27
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 337,
-    "timeDay": 357,
-    "timeWeek": 171,
-    "timeMonth": 138,
+    "timeDay": 71,
+    "timeWeek": 174,
+    "timeMonth": 135,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2025-07-08": 446
@@ -46,18 +46,16 @@
     "slug": "saas-joostvanderlaan-nl",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 620,
-    "timeWeek": 486,
-    "timeMonth": 485,
-    "timeYear": 633,
-    "dailyMinutesDown": {
-      "2025-10-03": 8
-    }
+    "time": 676,
+    "timeDay": 593,
+    "timeWeek": 461,
+    "timeMonth": 484,
+    "timeYear": 630,
+    "dailyMinutesDown": {}
   },
   {
     "name": "deno-astro.joostvanderlaan.nl",
@@ -71,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 428,
-    "timeWeek": 346,
-    "timeMonth": 294,
-    "timeYear": 306,
+    "timeDay": 86,
+    "timeWeek": 321,
+    "timeMonth": 283,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -89,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 634,
-    "timeDay": 548,
-    "timeWeek": 497,
+    "timeDay": 507,
+    "timeWeek": 463,
     "timeMonth": 516,
-    "timeYear": 659,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2024-12-25": 27
     }
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 481,
-    "timeWeek": 209,
-    "timeMonth": 177,
+    "timeDay": 156,
+    "timeWeek": 213,
+    "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {}
   },
@@ -126,9 +124,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.77%",
-    "time": 229,
-    "timeDay": 353,
-    "timeWeek": 252,
+    "time": 228,
+    "timeDay": 215,
+    "timeWeek": 238,
     "timeMonth": 223,
     "timeYear": 222,
     "dailyMinutesDown": {
@@ -166,9 +164,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 255,
-    "timeWeek": 123,
-    "timeMonth": 106,
+    "timeDay": 83,
+    "timeWeek": 121,
+    "timeMonth": 105,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-04-29": 17
@@ -186,9 +184,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 273,
-    "timeWeek": 262,
-    "timeMonth": 319,
+    "timeDay": 71,
+    "timeWeek": 250,
+    "timeMonth": 306,
     "timeYear": 243,
     "dailyMinutesDown": {}
   },
@@ -204,10 +202,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 300,
-    "timeWeek": 322,
-    "timeMonth": 321,
-    "timeYear": 311,
+    "timeDay": 358,
+    "timeWeek": 356,
+    "timeMonth": 323,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   }
 ]
